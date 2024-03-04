@@ -284,10 +284,6 @@ button:focus-visible {
 }
 
 .content__card-link_current {
-  width: 394px;
-}
-
-.content__card-link_current:link {
   background-color: #545050;
 }
 
